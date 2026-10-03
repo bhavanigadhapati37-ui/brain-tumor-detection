@@ -1,1 +1,6 @@
-# brain-tumor-detection
+flask==2.3.3
+gunicorn==21.2.0
+tensorflow==2.13.0
+numpy==1.24.3
+pillow==10.0.0
+werkzeug==2.3.7
